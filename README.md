@@ -2,7 +2,8 @@
 
 >## Demosntration of MVP work
 
->#### ![Uploading dataset](assets/fit.gif)
+>#### Uploading dataset
+>![](assets/fit.gif)
 
 >#### ![EDA view](assets/EDA.gif)
 
